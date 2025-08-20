@@ -42,5 +42,3 @@ This project uses the following Arduino libraries:
 
 ---
 
-git clone https://github.com/your-username/smart-medibox.git
-cd smart-medibox
